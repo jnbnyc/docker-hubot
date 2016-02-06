@@ -1,0 +1,7 @@
+.editorconfig
+.git
+.gitignore
+Dockerfile
+README.md
+data
+docker-compose.yml
